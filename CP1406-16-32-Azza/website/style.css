@@ -1,0 +1,25 @@
+@charset "utf-8";
+.carousel {
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+	width: 800px;
+	margin-top: 90px;
+}
+
+.navbar.navbar-default.navbar-fixed-top {
+	font-size: x-large;
+	margin-top:0px;
+	margin-bottom:0px;
+	
+}
+
+body {
+	background-color:  #0A1B7F;
+    padding-bottom: 70px;
+}
+
+
+.navbar-header .navbar-brand img {
+	margin-top: -13px;
+}
